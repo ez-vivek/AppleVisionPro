@@ -20,7 +20,7 @@ body {
     justify-content: center;
     font-size: x-large;
     animation: fadeOut 1s forwards; /* Changed duration to 1s for faster fade out */
-    animation-delay: 1s; /* Adjusted delay to ensure text animation ends first */
+    animation-delay: 3.5s; /* Adjusted delay to ensure text animation ends first */
     position: absolute;
     top: 0;
     left: 0;
